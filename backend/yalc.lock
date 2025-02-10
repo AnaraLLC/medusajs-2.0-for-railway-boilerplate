@@ -1,9 +1,0 @@
-{
-  "version": "v1",
-  "packages": {
-    "@anara/multi-vendor": {
-      "signature": "2cf4704cb3001d56ce8a42a235d456e9",
-      "file": true
-    }
-  }
-}

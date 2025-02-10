@@ -147,11 +147,7 @@ const medusaConfig = {
       }
     }] : [])
   ],
-  plugins: [   {
-    resolve: "@anara/multi-vendor",
-    options: {},
-  },
-]
+  plugins: []
 };
 
 console.log(JSON.stringify(medusaConfig, null, 2));
